@@ -3,8 +3,8 @@ import type { Metadata } from "next"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "خلصلي - تطبيق الدفع بالتقسيط",
-  description: "تطبيق الدفع الآجل الأول في الجزائر",
+  title: "خلصلي للبنوك - حل الدفع بالتقسيط المتكامل",
+  description: "حل الدفع بالتقسيط الأول في الجزائر للبنوك والمؤسسات المالية - زيادة الإيرادات وتحسين تجربة العملاء",
     generator: 'v0.dev'
 }
 
